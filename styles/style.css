@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.header img {
+    float: center;
+    width: 400px;
+    height: auto;
+    background-color: #555;
+}
+
+.header h1 {
+    background-color: lightgoldenrodyellow;
+    position: absolute;
+    top: 18px;
+    left: 100px;
+}
+
+.header ul {
+    position: absolute;
+    top: 80px;
+    left: 10px;
+    text-decoration: none;
+}
